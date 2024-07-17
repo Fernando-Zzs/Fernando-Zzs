@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando ZHANG</h1>
-<h3 align="center">A master student from HKUST</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-zzs&label=Profile%20views&color=0e75b6&style=flat" alt="fernando-zzs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernando-zzs" alt="fernando-zzs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fernando_zzs" target="blank"><img src="https://img.shields.io/twitter/follow/fernando_zzs?logo=twitter&style=for-the-badge" alt="fernando_zzs" /></a> </p>
+<h3 align="center">Master in Big Data Technology @HKUST @Bauhinia-AI | Bachelor in Software Engineer @scut | Data Science | GenAI🤖</h3>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
